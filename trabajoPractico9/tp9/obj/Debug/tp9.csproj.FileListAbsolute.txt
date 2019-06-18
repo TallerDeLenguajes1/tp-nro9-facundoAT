@@ -1,0 +1,7 @@
+C:\Users\fvg\source\repos\trabajoPractico9\tp9\bin\Debug\tp9.exe.config
+C:\Users\fvg\source\repos\trabajoPractico9\tp9\bin\Debug\tp9.exe
+C:\Users\fvg\source\repos\trabajoPractico9\tp9\bin\Debug\tp9.pdb
+C:\Users\fvg\source\repos\trabajoPractico9\tp9\obj\Debug\tp9.csprojAssemblyReference.cache
+C:\Users\fvg\source\repos\trabajoPractico9\tp9\obj\Debug\tp9.csproj.CoreCompileInputs.cache
+C:\Users\fvg\source\repos\trabajoPractico9\tp9\obj\Debug\tp9.exe
+C:\Users\fvg\source\repos\trabajoPractico9\tp9\obj\Debug\tp9.pdb
